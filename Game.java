@@ -60,7 +60,7 @@ class Game {
             }
         }
         return playerSum;
-    }
+    } 
 
     private int dealerTurn(int dealerSum) {
         System.out.println("Dealer's turn...");
